@@ -1,7 +1,7 @@
 <h1 align="center">Nigerian APIs</h1>
 
 <p align="center">
-   <a href="#c">C</a> &#183; <a href="#e">E</a> &#183; <a href="#P">F</a> &#183; <a href="#g">G</a> &#183; <a href="#n">N</a> &#183; <a href="#P">P</a> &#183; <a href="#q">Q</a> &#183; <a href="#r">R</a> &#183; <a href="#v">V</a>
+   <a href="#c">C</a> &#183; <a href="#e">E</a> &#183; <a href="#P">F</a> &#183; <a href="#g">G</a> &#183; <a href="#M">M</a> &#183; <a href="#n">N</a> &#183; <a href="#P">P</a> &#183; <a href="#q">Q</a> &#183; <a href="#r">R</a> &#183; <a href="#v">V</a>
 </p>
 
 > ### "An inventory (more like a list) of all the available Nigerian APIs that you can integrate with to build cool stuff"
@@ -25,10 +25,15 @@
 ## G
 
 - [GlobalPAY API](https://docs.globalpay.com.ng/)
+- [Glovo](https://apitracker.io/a/glovoapp)
 
 ## I
 
 - [Interswitch &mdash; Banks API](https://developer.interswitchgroup.com/docs/banks)
+
+## M
+
+- [Max.ng](https://maxv1.docs.apiary.io/#)
 
 ## N
 
