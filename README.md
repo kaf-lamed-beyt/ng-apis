@@ -12,9 +12,11 @@
 
 - [Central Bank of Nigeria (CBN) API](https://developer.cbn.gov.ng)
 
-## F
+- [Convoy](https://getconvoy.io/docs/)
 
-- [Paystack API](https://developers.paystack.com)
+## E
+
+- [EasyTax API](https://docs.easytax.ng)
 
 ## I
 
@@ -23,6 +25,10 @@
 ## N
 
 - [Nigerian Stock Exchange (NSE) API](https://nse.com.ng/market-data/market-data-api)
+
+# P
+
+- [Paystack API](https://developers.paystack.com)
 
 ## V
 
