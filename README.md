@@ -17,6 +17,7 @@
 ## E
 
 - [EasyTax API](https://docs.easytax.ng)
+- [Embed &mdash; Cowrywise](https://developers.cowrywise.com/)
 
 ## F
 
