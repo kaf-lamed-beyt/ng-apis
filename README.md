@@ -1,7 +1,7 @@
 <h1 align="center">Nigerian APIs</h1>
 
 <p align="center">
-   <a href="#c">C</a> &#183; <a href="#P">F</a> &#183; <a href="#n">N</a> &#183; <a href="#P">P</a> &#183; <a href="#v">V</a>
+   <a href="#c">C</a> &#183; <a href="#e">E</a> &#183; <a href="#P">F</a> &#183; <a href="#g">G</a> &#183; <a href="#n">N</a> &#183; <a href="#P">P</a> &#183; <a href="#q">Q</a> &#183; <a href="#r">R</a> &#183; <a href="#v">V</a>
 </p>
 
 > ### "An inventory (more like a list) of all the available Nigerian APIs that you can integrate with to build cool stuff"
@@ -18,6 +18,14 @@
 
 - [EasyTax API](https://docs.easytax.ng)
 
+## F
+
+- [Flutterwave](https://developer.flutterwave.com/docs/getting-started)
+
+## G
+
+- [GlobalPAY API](https://docs.globalpay.com.ng/)
+
 ## I
 
 - [Interswitch &mdash; Banks API](https://developer.interswitchgroup.com/docs/banks)
@@ -26,9 +34,17 @@
 
 - [Nigerian Stock Exchange (NSE) API](https://nse.com.ng/market-data/market-data-api)
 
-# P
+## P
 
 - [Paystack API](https://developers.paystack.com)
+
+## Q
+
+- [Quickteller API &mdash; Interswitch](https://developer.interswitchgroup.com/docs/quickteller)
+
+## R
+
+- [Remita API](https://www.remita.net/developers/)
 
 ## V
 
