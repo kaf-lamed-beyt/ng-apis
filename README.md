@@ -1,7 +1,7 @@
 <h1 align="center">Nigerian APIs</h1>
 
 <p align="center">
-   <a href="#c">C</a> &#183; <a href="#e">E</a> &#183; <a href="#P">F</a> &#183; <a href="#g">G</a> &#183; <a href="#M">M</a> &#183; <a href="#n">N</a> &#183; <a href="#P">P</a> &#183; <a href="#q">Q</a> &#183; <a href="#r">R</a> &#183; <a href="#v">V</a>
+   <a href="#c">C</a> &#183; <a href="#e">E</a> &#183; <a href="#f">F</a> &#183; <a href="#g">G</a> &#183; <a href="#i">I</a> &#183; <a href="#M">M</a> &#183; <a href="#n">N</a> &#183; <a href="#P">P</a> &#183; <a href="#q">Q</a> &#183; <a href="#r">R</a> &#183; <a href="#v">V</a>
 </p>
 
 > ### "An inventory (more like a list) of all the available Nigerian APIs that you can integrate with to build cool stuff"
@@ -29,6 +29,10 @@
 - [Glovo](https://apitracker.io/a/glovoapp)
 
 ## I
+
+- [Indicina](https://developers.indicina.co/docs)
+
+Modern credit platform to help you **manage your lending** and **make data-led credit decisions** that are better, safer, and faster for your business. 
 
 - [Interswitch &mdash; Banks API](https://developer.interswitchgroup.com/docs/banks)
 
