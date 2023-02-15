@@ -72,7 +72,7 @@
 
 - [Quickteller API &mdash; Interswitch](https://developer.interswitchgroup.com/docs/quickteller)
 
-Interswitch provides a platform for developers to integrate payment solutions into their products that offer services such as: accepting payments, VAT, KYC verfications, funds transfer, lending services and many more.
+  Interswitch provides a platform for developers to integrate payment solutions into their products that offer services such as: accepting payments, VAT, KYC verfications, funds transfer, lending services and many more.
 
 ## R
 
