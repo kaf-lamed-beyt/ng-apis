@@ -1,14 +1,30 @@
 <h1 align="center">Nigerian APIs</h1>
 
 <p align="center">
-   <a href="#c">C</a> &#183; <a href="#e">E</a> &#183; <a href="#f">F</a> &#183; <a href="#g">G</a> &#183; <a href="#i">I</a> &#183; <a href="#M">M</a> &#183; <a href="#n">N</a> &#183; <a href="#P">P</a> &#183; <a href="#q">Q</a> &#183; <a href="#r">R</a> &#183; <a href="#v">V</a>
+   <a href="#a">A</a> &#183; <a href="#b">B</a> &#183; <a href="#c">C</a> &#183; <a href="#e">E</a> &#183; <a href="#f">F</a> &#183; <a href="#g">G</a> &#183; <a href="#i">I</a> &#183; <a href="#k">K</a> &#183; <a href="#M">M</a> &#183; <a href="#n">N</a> &#183; <a href="#o">O</a> &#183; <a href="#P">P</a> &#183; <a href="#q">Q</a> &#183; <a href="#r">R</a> &#183; <a href="#t">T</a> &#183; <a href="#v">V</a>
 </p>
 
 > ### "An inventory (more like a list) of all the available Nigerian APIs that you can integrate with to build cool stuff"
 
 [Osamudiamen came up with this idea on Twitter](https://twitter.com/imasuen_design/status/1621499181201489921).
 
+## A
+
+- [ALAT by Wema Bank API](https://alat.ng/developer/)
+
+  The ALAT developer dashboard is an open API platform that offers an avenue for developers to digitally transform their businesses. Integrate all your banking services with your projects or busines with ease today.
+
+## B
+
+- [Brass Banking API](https://docs.trybrass.com/reference/getting-started-with-your-api)
+
+  Brass provides simple, yet powerful current account services, tools and support to help you grow your business
+
 ## C
+
+- [Carbon IVS API](https://carbonivs.co/developers)
+
+  With the CarbonIVS APIs, you can automate your identity verification flow, verify your KYC backlog to meet compliance obligations and plug identity verification right into your onboarding flow.
 
 - [Central Bank of Nigeria (CBN) API](https://developer.cbn.gov.ng)
 
@@ -48,7 +64,13 @@
 
 - [Paystack &mdash; Banks API](https://paystack.com/docs/api/#miscellaneous-bank)
 
-  Get a list of all supported banks and their properties
+  Get a list of all supported banks in Nigeria and other African countries and their properties
+
+## K
+
+- [Kuda Rails API](https://developers.indicina.co/docs)
+
+  Power your fintechwith Kuda rails!, Kuda gives developer access to rails API to move your fintech forward. Kuda Rails API will help you build and grow.
 
 ## M
 
@@ -56,11 +78,21 @@
 
   MAX API enables developers to integrate on-demand local delivery platform into their applications. The API is designed to allow application developers to check prices, schedules, book a delivery, then follow updates on that delivery till completion.
 
+- [Mono](https://mono.co/developers)
+
+  Mono provides modern financial infrastructure for businesses and developers in Africa to access financial data, telco data, and collect payments directly from bank accounts.
+
 ## N
 
 - [Nigerian Stock Exchange (NSE) API](http://marketdataapi.nse.com.ng/Home/Docs)
 
   The API is RESTful based, thus it permits seamless integration of Nigerian Stock Exchange market data to your software solutions, it provides data coverage which includes but not limited to equities, debts, exchange traded products and indices.
+
+## O
+
+- [Opay API](http://marketdataapi.nse.com.ng/Home/Docs)
+
+  The OPay developer documentation will give you insight and teach you how to build amazing payment experiences with the OPay APIs. OPay provides generic, low-level, secure, and PCI-compliant RESTful APIs which allow you accept and make payments. This hub also contains the documentation and tools required to use the APIs in solving your payment use cases.
 
 ## P
 
@@ -79,6 +111,12 @@
 - [Remita API](https://www.remita.net/developers/)
 
   Build and Integrate your payment products and solutions into your app for functions such as accepting payments, funds transfer, lending services and many more.
+
+## T
+
+- [thePeer API](https://docs.thepeer.co/)
+
+  Thepeer is creating the technology infrastructure for businesses to easily integrate and enable them to support fast, direct and efficient transactions across businesses.
 
 ## V
 
