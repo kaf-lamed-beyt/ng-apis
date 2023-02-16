@@ -1,7 +1,7 @@
 <h1 align="center">Nigerian APIs</h1>
 
 <p align="center">
-   <a href="#a">A</a> &#183; <a href="#b">B</a> &#183; <a href="#c">C</a> &#183; <a href="#e">E</a> &#183; <a href="#f">F</a> &#183; <a href="#g">G</a> &#183; <a href="#i">I</a> &#183; <a href="#k">K</a> &#183; <a href="#M">M</a> &#183; <a href="#n">N</a> &#183; <a href="#o">O</a> &#183; <a href="#P">P</a> &#183; <a href="#q">Q</a> &#183; <a href="#r">R</a> &#183; <a href="#t">T</a> &#183; <a href="#v">V</a>
+   <a href="#a">A</a> &#183; <a href="#b">B</a> &#183; <a href="#c">C</a> &#183; <a href="#e">E</a> &#183; <a href="#f">F</a> &#183; <a href="#g">G</a> &#183; <a href="#i">I</a> &#183; <a href="#k">K</a> &#183; <a href="#m">M</a> &#183; <a href="#n">N</a> &#183; <a href="#o">O</a> &#183; <a href="#p">P</a> &#183; <a href="#q">Q</a> &#183; <a href="#r">R</a> &#183; <a href="#t">T</a> &#183; <a href="#v">V</a>
 </p>
 
 > ### "An inventory (more like a list) of all the available Nigerian APIs that you can integrate with to build cool stuff"
@@ -105,6 +105,17 @@
 - [Quickteller API &mdash; Interswitch](https://developer.interswitchgroup.com/docs/quickteller)
 
   Interswitch provides a platform for developers to integrate payment solutions into their products that offer services such as: accepting payments, VAT, KYC verfications, funds transfer, lending services and many more.
+  
+- [Quidax API](https://www.quidax.com/c/products/api/)
+
+  The Quidax API allows you to integrate our suite of products into yours. Become a part of the cryptocurrency ecosystem, and let's be your gateway! The Quidax API makes it easy to build full-featured cryptocurrency apps or services for yourself and your customers. With simple integrations to Quidax’s API Products, you can carry out cryptocurrency transactions and execute workflows such as: 
+   - Wallets & Wallet Addresses: Generate Wallets and Wallet Addresses
+   - Crypto Transfers: Send and Receive Crypto to and from your Wallets
+   - Crypto Trading: Buy and Sell Crypto with local fiat currency.
+   - Crypto Payouts: Initiate Instant crypto payouts.
+   - Market Intelligence: Get Real-time crypto-fiat market prices, and quotations.
+   - Crypto Loans: Offer Crypto-backed loans to your customers
+   - Crypto Payments: Build your own crypto payment processor
 
 ## R
 
